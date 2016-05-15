@@ -1,0 +1,19 @@
+{
+  "name": "frontend-advanced",
+  "version": "1.0.0",
+  "description": "Study project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeiYV/frontend-masters.git"
+  },
+  "author": "Alexei Yerofeyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeiYV/frontend-masters/issues"
+  },
+  "homepage": "https://github.com/AlexeiYV/frontend-masters#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "express": "^4.13.4"
+  }
+}

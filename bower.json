@@ -1,0 +1,21 @@
+{
+  "name": "frontend-advanced",
+  "description": "Study project",
+  "main": "",
+  "authors": [
+    "Alexei Yerofeyev"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AlexeiYV/frontend-masters",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
